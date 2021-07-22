@@ -1668,6 +1668,7 @@ a:hover.back-to-top {
     border-radius: 999999px;
     transition-property: all;
     transition-duration: .5s;
+    margin-left: 0.875rem;
 }
 
 .navbar .far {
