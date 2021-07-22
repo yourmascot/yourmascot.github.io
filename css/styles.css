@@ -1652,3 +1652,27 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+.nav-item.buttons a:hover {
+    background-color: #ff5722;
+}
+
+.nav-item.buttons a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: unset;
+    color: white;
+    background-color: #6a1fb1;
+    padding: 1rem 1.5rem;
+    border-radius: 999999px;
+    transition-property: all;
+    transition-duration: .5s;
+}
+
+.navbar .far {
+    color: #ffffff;
+    font-size: 1.25rem;
+    transition: all 0.2s ease;
+    margin-right: 0.5rem;
+}
