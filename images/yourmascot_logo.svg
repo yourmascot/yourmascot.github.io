@@ -1,0 +1,141 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3452.38 1507">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        clip-rule: evenodd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-14, .cls-15 {
+        font-size: 350px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-14 {
+        fill: #cd32ac;
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(0 2)">
+      <path class="cls-1" d="M518.48,910.66a333.36,333.36,0,0,1,10.93-332.72c-130,72.33-218,211.12-218,370.47,0,234,189.67,423.65,423.65,423.65a426.61,426.61,0,0,0,48.09-2.7C619.4,1348.45,492.8,1208.56,492.8,1039.1a331.9,331.9,0,0,1,25.68-128.44"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="313.17" y1="1199.36" x2="780.78" y2="754.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#591dc3"/>
+      <stop offset="1" stop-color="#b7275a"/>
+    </linearGradient>
+    <clipPath id="clip-path-2" transform="translate(0 2)">
+      <path class="cls-1" d="M311.43,948.41c0-159.35,88-298.14,218-370.47,55.87-89.67,153.18-150.83,265.14-156.7a564,564,0,0,0-228.65-48.1C253.42,373.14.1,626.45.1,938.93s253.32,565.8,565.8,565.8c154.16,0,293.93-61.66,396-161.66a334.8,334.8,0,0,1-178.71,26.29,426.61,426.61,0,0,1-48.09,2.7c-234,0-423.65-189.67-423.65-423.65"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="162.56" y1="1374.23" x2="799.47" y2="507.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7336d2"/>
+      <stop offset="1" stop-color="#d0406a"/>
+    </linearGradient>
+    <clipPath id="clip-path-3" transform="translate(0 2)">
+      <path class="cls-1" d="M647.21,464.08c-149.43,85.5-216.84,282-128.73,446.58,108.87-260.18,470.17-273,601.05-28.47,76-588.43-667.29-447-512.66-882.46.72-2-241.35,329.46,40.45,464.29,2.33-1.32,2.91-1.67-.11.06"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="526.94" y1="754.94" x2="1052.13" y2="138" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fa8569"/>
+      <stop offset="1" stop-color="#fbdc57"/>
+    </linearGradient>
+    <clipPath id="clip-path-4" transform="translate(0 2)">
+      <path class="cls-1" d="M1119.53,882.19C1082.94,674.09,901.28,516,682.69,516a444.16,444.16,0,0,0-118.75,16.07,339.08,339.08,0,0,0-84.2,203.83q-.48,8.88-.48,17.87a331.55,331.55,0,0,0,39.22,156.91c65.71-157.06,223.42-224,366.89-198.55l1.63-.37a330.42,330.42,0,0,1,90.41,30.84c57.44,28.9,107.73,75.37,142.12,139.61"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="946.81" y1="914.71" x2="651.2" y2="516.29" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ae287a"/>
+      <stop offset="0.15" stop-color="#b12d79"/>
+      <stop offset="0.33" stop-color="#ba3c76"/>
+      <stop offset="0.53" stop-color="#c95571"/>
+      <stop offset="0.74" stop-color="#dd786a"/>
+      <stop offset="0.96" stop-color="#f7a461"/>
+      <stop offset="1" stop-color="#fdae5f"/>
+    </linearGradient>
+    <clipPath id="clip-path-5" transform="translate(0 2)">
+      <path class="cls-1" d="M995.25,817.77c-37.17-65.77-54-72.16-89.46-101.4-157.56-38-324.22,35-387.31,194.29A334.53,334.53,0,0,0,626.34,1030c5.18-257.54,300.93-240.7,347.37-67.38a391.44,391.44,0,0,0,139.4-72.28c-16.54,3.89-33.08,7.77-37.85,2s2.2-21.1-9-29.24c-36.62-26.71-49.83-7.87-71-45.41"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="753.05" y1="1039.74" x2="869.38" y2="697.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6320cd"/>
+      <stop offset="1" stop-color="#cb2b59"/>
+    </linearGradient>
+    <clipPath id="clip-path-6" transform="translate(0 2)">
+      <path class="cls-1" d="M735.08,1372.06c-234,0-423.65-189.67-423.65-423.66,0-159.34,88-298.13,218-370.46a333.46,333.46,0,0,1,46.47-58.72,328.09,328.09,0,0,1,71.32-55.14l.48-.27-.37.21c-51.47-24.63-85.46-55.81-106.65-90.33q-17.4.76-34.5,2.56c-211,72.58-362.59,272.79-362.59,508.4,0,296.86,240.65,537.51,537.5,537.51a535,535,0,0,0,280.8-79.09,334.8,334.8,0,0,1-178.71,26.29,426.61,426.61,0,0,1-48.09,2.7M647.69,463.81"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="251.57" y1="1276.58" x2="854.43" y2="523.41" xlink:href="#linear-gradient-5"/>
+  </defs>
+  <title>yourmascot_logo</title>
+  <g>
+    <g>
+      <g class="cls-2">
+        <rect class="cls-3" x="311" y="580" width="472" height="794"/>
+      </g>
+      <g class="cls-4">
+        <rect class="cls-5" y="375" width="962" height="1132"/>
+      </g>
+      <g class="cls-6">
+        <rect class="cls-7" x="366" width="830" height="913"/>
+      </g>
+      <g class="cls-8">
+        <rect class="cls-9" x="479" y="518" width="640" height="395"/>
+      </g>
+      <g class="cls-10">
+        <rect class="cls-11" x="518" y="680" width="595" height="352"/>
+      </g>
+      <g class="cls-12">
+        <rect class="cls-13" x="144" y="376" width="818" height="1048"/>
+      </g>
+    </g>
+    <text class="cls-14" transform="translate(1242.36 1057.97)">Your</text>
+    <text class="cls-15" transform="translate(2121.34 1071.63)">Mascot</text>
+  </g>
+</svg>
