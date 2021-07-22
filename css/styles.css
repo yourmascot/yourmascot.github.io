@@ -448,13 +448,13 @@ input[type='checkbox'] {
 }
 
 .navbar .navbar-brand {
-	padding-top: 0.125rem;
-	padding-bottom: 0.125rem;
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 .navbar .logo-image img {
-    width: 133px;
-	height: 32px;
+        width: 65px;
+	height: auto;
 }
 
 .navbar .logo-text {
@@ -503,7 +503,7 @@ input[type='checkbox'] {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #ff6e84;
+	color: #6a1fb1;
 }
 
 /* Dropdown Menu */
@@ -561,13 +561,13 @@ input[type='checkbox'] {
 }
 
 .navbar .fab {
-	color: #594cda;
+	color: #6a1fb1;
 	font-size: 1.25rem;
 	transition: all 0.2s ease;
 }
 
 .navbar .fab:hover {
-	color: #eb427e;
+	color: #ff5722;
 }
 
 .navbar .fa-apple {
@@ -1295,7 +1295,8 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.5rem;
 		padding-bottom: 0.5rem;
-		background-color: #f1f9fc;
+		background-color: #ffffff;
+                box-shadow: 0 0 5px rgba(0,0,0,0.2);
 	}
 
 	.offcanvas-collapse {
